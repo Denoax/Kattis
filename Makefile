@@ -1,7 +1,7 @@
 CXX ?= g++
 CXXFLAGS ?= -std=c++17 -O2 -Wall -Wextra -Wpedantic
 
-SOLUTIONS := Ball EenyMeeny Endian FancyFrames FastFoodPrizes Marko SortofSorting TrackSmoothing
+SOLUTIONS := Ball EenyMeeny Endian FancyFrames FastFoodPrizes Marko SortofSorting TemperatureConfusion TrackSmoothing
 TARGETS := $(addprefix build/,$(SOLUTIONS))
 
 .PHONY: all check clean
