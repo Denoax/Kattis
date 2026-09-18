@@ -1,0 +1,19 @@
+# Compiler output
+/build/
+*.o
+*.out
+
+# Local debug binaries produced by the VS Code task
+/Ball
+/Endian
+/FancyFrames
+/Mark
+/Marko
+/Sort of Sorting
+/SortofSorting
+/TemperatureConfusion
+/TrackSmoothing
+
+# Editor and OS noise
+.DS_Store
+*.swp
