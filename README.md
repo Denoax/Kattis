@@ -5,4 +5,3 @@
 </p>
 
 This is my folder of C++ solutions to Open Kattis problems.
-
