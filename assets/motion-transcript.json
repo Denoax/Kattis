@@ -1,0 +1,7 @@
+{
+  "command": "g++ -std=c++17 -O2 Baloni.cpp -o baloni\nprintf \"5\\n2 1 5 4 3\\n\" | ./baloni",
+  "exit": 0,
+  "output": "2\n",
+  "input": "5\n2 1 5 4 3\n",
+  "sourceHead": "0cc95c2c88cc19e93f87ff92e070932cb4ac1435"
+}
